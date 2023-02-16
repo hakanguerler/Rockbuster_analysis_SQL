@@ -1,6 +1,6 @@
 # Rockbuster_analysis_SQL
 
-Analysis of the PostgreSQL Sample Database of a DVD rental company using SQL as part of the careerfoundry Data Analysis course.
+Analysis of the PostgreSQL Sample Database of a DVD rental company using PostgreSQL.
 
 Objective
 
